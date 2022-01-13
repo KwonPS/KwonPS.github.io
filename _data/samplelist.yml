@@ -66,7 +66,7 @@ toc3:
         item2depth:
           - page: 로그인 ID 관리
             url: /categories/login
-            item3depths:
+            item3depth:
               - page: ID 조회
                 url: /login/IDLookup
               - page: 대행사/에이전시 등록

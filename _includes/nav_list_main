@@ -2,34 +2,56 @@
     {% if site.data.samplelist.toc3[0] %}
       {% for item in site.data.samplelist.toc3 %}
         <h3>{{ item.title }}</h3>
-          {% if item.subfolderitems[0] %}
+          {% if item.item1depth[0] %}
             <ul>
-              {% for entry in item.subfolderitems %}
-                  <li><a href="{{ entry.url }}">{{ entry.page }}</a>
-                    {% if entry.subsubfolderitems[0] %}
-                      <ul>
-                      {% for subentry in entry.subsubfolderitems %}
-                          <li><a href="{{ subentry.url }}">{{ subentry.page }}</a></li>
+              {% for entry in item.item1depth %}             
+                <li>                  
+                  <!-- 하위 구조에 따른 링크 분기 시작 1depth-->                    
+                    {% if entry.item2depth[0]  %}     <!-- 1detph의 하위 메뉴 존재 여부 확인 -->                 
+                      {{ entry.page }} {{ entry.item3depth }} <!-- 항목명만 표시 -->                    
+                    {% else %}  <!-- 1depth 하위가 없을 경우 -->
+                      <a href="{{ entry.url }}"> {{ entry.page }} </a>  <!-- 이동 링크 제공 -->
+                    {% endif %}
+                  <!-- 하위 구조에 따른 링크 분기 종료 1depth-->                  
+                  
+                    {% if entry.item2depth[0] %}
+                      <ul>                      
+                      {% for subentry in entry.item2depth %}
+                        <li>
+                            <!-- 하위 구조에 따른 링크 분기 시작 2depth-->
+                              {% if subentry.item3depth[0] %}
+                                {{ subentry.page }} <!-- 하위가 있는 경우 -->
+                              {% else %}
+                                <a href="{{ subentry.url }}"> {{ subentry.page }}</a> <!-- 하위가 없는 경우 -->
+                              {% endif %}
+                            <!-- 하위 구조에 따른 링크 분기 종료 2depth-->
+                        </li>
+                                {% if entry.item2depth[0] %}
+                                    <ul>
+                                        {% for subsubentry in subentry.item3depth %}
+                                        <li> 
+                                            <a href="{{ subsubentry.url }}"> {{ subsubentry.page }} </a> 
+                                        </li>
+                                        {% endfor %}
+                                    </ul>
+                                {% endif %}
+
                       {% endfor %}
                       </ul>
                     {% endif %}
-                       {% if entry.subsubsubfolderitems[0] %}
-                    <ul>
-                         {% for subsubentry in entry.subsubsubfolderitems %}
-                          <li><a href="{{ subsubentry.url }}">{{ subsubentry.page }}</a></li>
-                         {% endfor %}
-                    </ul>
-                       {% endif %}
+                
+
                   </li>
               {% endfor %}
             </ul>
           {% endif %}
         {% endfor %}
     {% endif %}
-    </div>
+</div>
 
-     
-    
+
+
+
 <!-- {% assign sum = site.posts | size %} -->
 
 

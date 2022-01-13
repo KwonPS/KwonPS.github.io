@@ -192,7 +192,7 @@ toc3:
         url: /categories/branch FM
         item2depth:
           - page: 가맹점 조회
-            url: /branch fm/ASlookup
+            url: /branch fm/ASLookup
           - page: 터미널 조회
             url: /branch fm/terminal
           - page: 가맹점 등록

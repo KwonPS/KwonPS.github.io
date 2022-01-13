@@ -1,5 +1,5 @@
 ---
-title:  "지사 관리 - 지사 등록"
+title:  "지사 등록"
 excerpt: "지사를 등록합니다"
 
 categories:

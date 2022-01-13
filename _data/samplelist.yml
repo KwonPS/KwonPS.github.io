@@ -159,7 +159,7 @@ toc3:
       - page: 멤버 관리
         url: /categories/agency MM
         subsubfolderitems:
-          - page: 로그인 ID 관리
+          - page: 로그인 아이디 관리
             url: /categories/agencylogin
             subsubsubfolderitems:
               - page: ID조회

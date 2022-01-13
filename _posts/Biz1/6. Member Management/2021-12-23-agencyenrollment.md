@@ -1,5 +1,5 @@
 ---
-title:  "에이전시 관리 - 에이전시 등록"
+title:  "에이전시 등록"
 excerpt: "에이전시를 등록합니다"
 
 categories:

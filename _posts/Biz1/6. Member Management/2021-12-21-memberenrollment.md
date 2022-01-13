@@ -1,5 +1,5 @@
 ---
-title:  "가맹점 등록"
+title: "가맹점 등록"
 excerpt: "등록된 가맹점에 로그인 아이디를 부여합니다"
 
 categories:

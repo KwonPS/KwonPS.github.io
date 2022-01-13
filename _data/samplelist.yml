@@ -281,9 +281,9 @@ toc3:
             url: /categories/pam
             item3depth:
               - page: 거래내역 조회
-                url: /pam/transaction history    
+                url: /pam/transaction-history    
               - page: 인증내역 조회
-                url: /pam/certification history   
+                url: /pam/certification-history   
       - page: 매출 및 정산 내역
         url: /categories/affliated SS
         item2depth:

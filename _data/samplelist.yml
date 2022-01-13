@@ -1,11 +1,11 @@
 toc3:
   - title: BizS
-    subfolderitems:
+    item1depth:
       - page: DashBoard
         url: bizs dashboard/dashboard
       - page: 가맹점 관리
         url: /categories/FM
-        subsubfolderitems:
+        item2depth:
           - page: 가맹점 조회
             url: /fm/ASlookup
           - page: 터미널 조회
@@ -16,7 +16,7 @@ toc3:
             url: /fm/underperforming
       - page: 거래 관리
         url: /categories/transaction management
-        subsubfolderitems:
+        item2depth:
           - page: 매입 현황 조회
             url: /transaction management/purchasestatus
           - page: 승인 내역 조회
@@ -25,7 +25,7 @@ toc3:
             url: /transaction management/approvalfailure
           - page: 가상계좌 관리
             url: /categories/va
-            subsubsubfolderitems:
+            item3depth:
               - page: 발행내역 조회
                 url: /va/publihistory
               - page: 거래내역 조회
@@ -36,7 +36,7 @@ toc3:
             url: /transaction management/approvalcancellationhistory
       - page: 매출 관리
         url: /categories/sales management
-        subsubfolderitems:
+        item2depth:
           - page: 월별 매출관리
             url: /sales management/MSM
           - page: 대행사 매출관리
@@ -53,20 +53,20 @@ toc3:
             url: /sales management/FSL
       - page: 대행사 정산
         url: /categories/settlement
-        subsubfolderitems:
+        item2depth:
           - page: 대행사 정산 조회
             url: /settlement/basettlementlookup
       - page: 실시간 정산
         url: /categories/realtime settlement
-        subsubfolderitems:
+        item2depth:
           - page: 자동 정산내역 조회
             url: /realtime settlement/autosettlement
       - page: 멤버 관리
         url: /categories/member management
-        subsubfolderitems:
+        item2depth:
           - page: 로그인 ID 관리
             url: /categories/login
-            subsubsubfolderitemss:
+            item3depths:
               - page: ID 조회
                 url: /login/IDLookup
               - page: 대행사/에이전시 등록
@@ -75,21 +75,21 @@ toc3:
             url: /member management/memberenrollment
           - page: 에이전시 관리
             url: /categories/agencymanagement
-            subsubsubfolderitems: 
+            item3depth: 
               - page: 에이전시 조회
                 url: /agencymanagement/agencylookup
               - page: 에이전시 등록
                 url: /agencymanagement/agencyenrollment
           - page: 지사 관리
             url: /categories/branchmanagement
-            subsubsubfolderitems:
+            item3depth:
               - page: 지사 조회
                 url: /branchmanagement/branchlookup
               - page: 지사 등록
                 url: /branchmanagement/branchenrollment
       - page: 고객 센터
         url: /categories/customer service center
-        subsubfolderitems:
+        item2depth:
           - page: 공지사항
             url: /customer service center/information
           - page: 자주 묻는 질문
@@ -97,12 +97,12 @@ toc3:
           - page: 작업 관리
             url: /customer service center/work
   - title: BizA
-    subfolderitems:
+    item1depth:
       - page: DashBoard
         url: bizs dashboard/dashboard
       - page: 가맹점 관리
         url: /categories/agency FM
-        subsubfolderitems:
+        item2depth:
           - page: 가맹점 조회
             url: /agency fm/ASlookup
           - page: 터미널 조회
@@ -113,7 +113,7 @@ toc3:
             url: /agency fm/underperforming
       - page: 거래 관리
         url: /categories/agency TM
-        subsubfolderitems:
+        item2depth:
           - page: 매입 현황 조회
             url: /agency tm/purchasestatus
           - page: 승인 내역 조회
@@ -122,7 +122,7 @@ toc3:
             url: /agency tm/failure
           - page: 가상계좌 관리
             url: /categories/ava
-            subsubsubfolderitems:
+            item3depth:
               - page: 발행내역 조회
                 url: /ava/publihistory
               - page: 거래내역 조회
@@ -133,7 +133,7 @@ toc3:
             url: /agency tm/cancle-history
       - page: 매출 관리
         url: /categories/agency SM
-        subsubfolderitems:
+        item2depth:
           - page: 월별 매출관리
             url: /agency sm/a-MSM
           - page: 에이전시 매출관리
@@ -148,20 +148,20 @@ toc3:
             url: /agency sm/a-FSL
       - page: 대행사 정산
         url: /categories/agency settlement
-        subsubfolderitems:
+        item2depth:
           - page: 대행사 정산 조회
             url: /agency settlement/agency-settlement
       - page: 실시간 정산
         url: /categories/agency RS
-        subsubfolderitems:
+        item2depth:
           - page: 자동 정산내역 조회
             url: /agency rs/a-autosettlement
       - page: 멤버 관리
         url: /categories/agency MM
-        subsubfolderitems:
+        item2depth:
           - page: 로그인 아이디 관리
             url: /categories/agencylogin
-            subsubsubfolderitems:
+            item3depth:
               - page: ID조회
                 url: /agencylogin/idlookup
               - page: 지사 ID등록
@@ -170,14 +170,14 @@ toc3:
             url: /agency mm/agency-mr
           - page: 지사 관리
             url: /categories/abm
-            subsubsubfolderitems:
+            item3depth:
               - page: 지사 조회
                 url: /abm/branchlookup
               - page: 지사 등록
                 url: /abm/branchenroll
       - page: 고객 센터
         url: /categories/agency CSC
-        subsubfolderitems:
+        item2depth:
           - page: 공지사항
             url: /agency csc/a-information
           - page: 자주 묻는 질문
@@ -185,12 +185,12 @@ toc3:
           - page: 작업 관리
             url: /agency csc/a-work
   - title: BizB
-    subfolderitems:
+    item1depth:
       - page: DashBoard
         url: bizs dashboard/dashboard
       - page: 가맹점 관리
         url: /categories/branch FM
-        subsubfolderitems:
+        item2depth:
           - page: 가맹점 조회
             url: /branch fm/ASlookup
           - page: 터미널 조회
@@ -201,7 +201,7 @@ toc3:
             url: /branch fm/underperforming
       - page: 거래 관리
         url: /categories/branch TM
-        subsubfolderitems:
+        item2depth:
           - page: 매입 현황 조회
             url: /branch tm/purchasestatus
           - page: 승인 내역 조회
@@ -210,7 +210,7 @@ toc3:
             url: /branch tm/failure
           - page: 가상계좌 관리
             url: /categories/bva
-            subsubsubfolderitems:
+            item3depth:
               - page: 발행내역 조회
                 url: /bva/publihistory
               - page: 거래내역 조회
@@ -221,7 +221,7 @@ toc3:
             url: /branch tm/cancle-history
       - page: 매출 관리
         url: /categories/branch SM
-        subsubfolderitems:
+        item2depth:
           - page: 월별 매출관리
             url: /branch sm/MSM
           - page: 지사 매출관리
@@ -232,23 +232,23 @@ toc3:
             url: /branch sm/MFSM
       - page: 대행사 정산
         url: /categories/branch settlement
-        subsubfolderitems:
+        item2depth:
           - page: 대행사 정산 조회
             url: /branch settlement/branch-settlement
       - page: 실시간 정산
         url: /categories/branch RS
-        subsubfolderitems:
+        item2depth:
           - page: 자동 정산내역 조회
             url: /branch rs/b-autosettlement
       - page: 멤버 관리
         url: /categories/branch MM
-        subsubfolderitems:
+        item2depth:
           - page: 로그인 ID 관리
             url: /branch mm/b-idlookup
           - page: 가맹점 등록
             url: /branch mm/branch-mr
         url: /categories/branch CSC
-        subsubfolderitems:
+        item2depth:
           - page: 공지사항
             url: /branch csc/3information
           - page: 자주 묻는 질문
@@ -256,17 +256,17 @@ toc3:
           - page: 작업 관리
             url: /branch csc/1work
   - title: 가맹점
-    subfolderitems:
+    item1depth:
       - page: DashBoard
         url: affliated dashboard/dashboard
       - page: 거래 관리
         url: /categories/affliated TM
-        subsubfolderitems:  
+        item2depth:  
           - page: 매입 현황 조회
             url: /affliated tm/purchasestatus  
           - page: 가상계좌 관리
             url: /categories/afva
-            subsubsubfolderitems:
+            item3depth:
               - page: 발행내역 조회
                 url: afva/publishing
               - page: 거래내역 조회
@@ -279,14 +279,14 @@ toc3:
             url: /affliated tm/failure
           - page: 지급대행 관리
             url: /categories/pam
-            subsubsubfolderitems:
+            item3depth:
               - page: 거래내역 조회
                 url: /pam/transaction history    
               - page: 인증내역 조회
                 url: /pam/certification history   
       - page: 매출 및 정산 내역
         url: /categories/affliated SS
-        subsubfolderitems:
+        item2depth:
           - page: 신용카드 정산 조회
             url: /affliated ss/creditcard
           - page: 가상계좌 정산 조회
@@ -297,14 +297,14 @@ toc3:
             url: /affliated ss/monthly
       - page: 충전 정산
         url: /categories/affliated CS
-        subsubfolderitems:
+        item2depth:
           - page: 거래내역 조회
             url: /affliated cs/transactionhistory
           - page: 오류내역 조회
             url: /affliated cs/error
       - page: 고객 센터
         url: /categories/affliated CSC
-        subsubfolderitems:
+        item2depth:
           - page: 공지사항
             url: /affliated csc/information
           - page: 자주 묻는 질문

@@ -107,7 +107,7 @@ last_modified_at: 2021-12-29
 이름, 전화번호<br>
 <br>
 
-![에이전시담당자정보](https://user-images.githubusercontent.com/95394003/147034565-ea966fad-b716-43b0-b5e5-8409d79680ff.jpeg)<br>
+![담당자정보입력](https://user-images.githubusercontent.com/95394003/146134757-a8ddc47a-5b97-4a42-8a38-a2c3b8cbfca1.jpeg)<br>
 **이름**<br>
 담당자의 이름을 입력합니다.
 

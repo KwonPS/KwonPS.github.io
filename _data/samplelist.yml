@@ -214,7 +214,7 @@ toc3:
               - page: 발행내역 조회
                 url: /bva/publihistory
               - page: 거래내역 조회
-                url: /bva/tranhistory
+                url: /bva/transhistory
           - page: 리스크 관리
             url: /branch tm/risk-management
           - page: 승인 취소내역 조회

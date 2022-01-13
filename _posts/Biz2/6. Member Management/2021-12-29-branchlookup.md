@@ -1,5 +1,5 @@
 ---
-title:  "지사 관리 - 지사 조회"
+title:  "지사 조회"
 excerpt: "등록된 지사를 조회합니다"
 
 categories:

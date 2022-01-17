@@ -21,7 +21,7 @@ title_separator          : KwonPS Manual
 subtitle                 : 
 name                     : "KwonPS"
 description              : "KwonPS_영업기획_대외배포용_매뉴얼_제작"
-url                      : /_layouts/home.html/
+url                      : "/_layouts/home.html/"
 baseurl                  :
 repository               : "KwonPS/KwonPS.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"

@@ -4,16 +4,16 @@ toc3:
       - page: DashBoard
         url: bizsdashboard/dashboard
       - page: 가맹점 관리
-        url: /categories/agency FM
+        url: /categories/agencyfm
         subsubfolderitems:
           - page: 가맹점 조회
-            url: /agency fm/ASlookup
+            url: /agencyfm/ASlookup
           - page: 터미널 조회
-            url: /agency fm/terminal
+            url: /agencyfm/terminal
           - page: 가맹점 등록
-            url: /agency fm/ASenroll
+            url: /agencyfm/ASenroll
           - page: 미실적 가맹점 조회
-            url: /agency fm/underperforming
+            url: /agencyfm/underperforming
       - page: 거래 관리
         url: /categories/agency TM
         subsubfolderitems:

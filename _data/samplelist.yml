@@ -2,7 +2,7 @@ toc3:
   - title: BizS
     item1depth:
       - page: DashBoard
-        url: bizs dashboard/dashboard
+        url: bizsdashboard/dashboard
       - page: 가맹점 관리
         url: /categories/FM
         item2depth:
@@ -99,7 +99,7 @@ toc3:
   - title: BizA
     item1depth:
       - page: DashBoard
-        url: bizs dashboard/dashboard
+        url: bizsdashboard/dashboard
       - page: 가맹점 관리
         url: /categories/agency FM
         item2depth:
@@ -187,7 +187,7 @@ toc3:
   - title: BizB
     item1depth:
       - page: DashBoard
-        url: bizs dashboard/dashboard
+        url: bizsdashboard/dashboard
       - page: 가맹점 관리
         url: /categories/branch FM
         item2depth:

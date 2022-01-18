@@ -2,7 +2,7 @@ toc3:
   - title: BizA
     subfolderitems:
       - page: DashBoard
-        url: bizs dashboard/dashboard
+        url: bizsdashboard/dashboard
       - page: 가맹점 관리
         url: /categories/agency FM
         subsubfolderitems:

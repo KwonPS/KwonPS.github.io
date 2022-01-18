@@ -79,11 +79,11 @@ toc3:
               - page: 지사 등록
                 url: /abm/branchenroll
       - page: 고객 센터
-        url: /categories/agency CSC
+        url: /categories/agencycsc
         subsubfolderitems:
           - page: 공지사항
-            url: /agency csc/a-information
+            url: /agencycsc/a-information
           - page: 자주 묻는 질문
-            url: /agency csc/a-qna
+            url: /agencycsc/a-qna
           - page: 작업 관리
-            url: /agency csc/a-work
+            url: /agencycsc/a-work

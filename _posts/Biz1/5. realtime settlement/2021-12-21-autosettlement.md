@@ -3,7 +3,7 @@ title:  "자동 정산내역 조회"
 excerpt: "검색 조건을 입력 및 선택하여 자동정산내역을 조회합니다"
 
 categories:
-  - realtime settlement
+  - realtimesettlement
 tags:
   - [대행사, 자동 정산내역 조회]
 

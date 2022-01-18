@@ -57,10 +57,10 @@ toc3:
           - page: 대행사 정산 조회
             url: /settlement/basettlementlookup
       - page: 실시간 정산
-        url: /categories/realtime settlement
+        url: /categories/realtimesettlement
         item2depth:
           - page: 자동 정산내역 조회
-            url: /realtime settlement/autosettlement
+            url: /realtimesettlement/autosettlement
       - page: 멤버 관리
         url: /categories/membermanagement
         item2depth:

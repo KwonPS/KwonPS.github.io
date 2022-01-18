@@ -35,16 +35,16 @@ toc3:
           - page: 승인 취소내역 조회
             url: /branch tm/cancle-history
       - page: 매출 관리
-        url: /categories/branch SM
+        url: /categories/branchsm
         subsubfolderitems:
           - page: 월별 매출관리
-            url: /branch sm/MSM
+            url: /branchsm/MSM
           - page: 지사 매출관리
-            url: /branch sm/BSM
+            url: /branchsm/BSM
           - page: 가맹점 매출관리
-            url: /branch sm/FSM
+            url: /branchsm/FSM
           - page: 월별 가맹점 매출관리
-            url: /branch sm/MFSM
+            url: /branchsm/MFSM
       - page: 대행사 정산
         url: /categories/branch settlement
         subsubfolderitems:

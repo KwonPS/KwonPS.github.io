@@ -3,7 +3,7 @@ title:  "신용카드 정산 조회"
 excerpt: "신용카드에 대한 정산정보를 조회합니다"
 
 categories:
-  - affliated SS
+  - affliatedss
 tags:
   - [가맹점, 매출 및 정산 내역, 신용카드 정산 조회]
 toc: true

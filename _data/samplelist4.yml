@@ -29,16 +29,16 @@ toc3:
               - page: 인증내역 조회
                 url: /pam/certification history   
       - page: 매출 및 정산 내역
-        url: /categories/affliated SS
+        url: /categories/affliatedss
         subsubfolderitems:
           - page: 신용카드 정산 조회
-            url: /affliated ss/creditcard
+            url: /affliatedss/creditcard
           - page: 가상계좌 정산 조회
-            url: /affliated ss/vasettlement
+            url: /affliatedss/vasettlement
           - page: 기간별 매출관리
-            url: /affliated ss/term
+            url: /affliatedss/term
           - page: 월별 매출관리
-            url: /affliated ss/monthly
+            url: /affliatedss/monthly
       - page: 충전 정산
         url: /categories/affliatedcs
         subsubfolderitems:

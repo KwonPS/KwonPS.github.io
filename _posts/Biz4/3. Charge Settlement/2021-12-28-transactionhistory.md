@@ -3,7 +3,7 @@ title:  "거래내역 조회"
 excerpt: "충전정산에 대한 거래내역을 조회합니다."
 
 categories:
-  - affliated CS
+  - affliatedcs
 tags:
   - [가맹점, 충전정산, 거래내역 조회]
 toc: true

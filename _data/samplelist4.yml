@@ -40,18 +40,18 @@ toc3:
           - page: 월별 매출관리
             url: /affliated ss/monthly
       - page: 충전 정산
-        url: /categories/affliated CS
+        url: /categories/affliatedcs
         subsubfolderitems:
           - page: 거래내역 조회
-            url: /affliated cs/transactionhistory
+            url: /affliatedcs/transactionhistory
           - page: 오류내역 조회
-            url: /affliated cs/error
+            url: /affliatedcs/error
       - page: 고객 센터
-        url: /categories/affliated CSC
+        url: /categories/affliatedcsc
         subsubfolderitems:
           - page: 공지사항
-            url: /affliated csc/information
+            url: /affliatedcsc/information
           - page: 자주 묻는 질문
-            url: /affliated csc/qna
+            url: /affliatedcsc/qna
           - page: 작업 관리
-            url: /affliated csc/work    
+            url: /affliatedcsc/work    

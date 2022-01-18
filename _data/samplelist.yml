@@ -35,22 +35,22 @@ toc3:
           - page: 승인 취소내역 조회
             url: /transaction management/approvalcancellationhistory
       - page: 매출 관리
-        url: /categories/sales management
+        url: /categories/salesmanagement
         item2depth:
           - page: 월별 매출관리
-            url: /sales management/MSM
+            url: /salesmanagement/MSM
           - page: 대행사 매출관리
-            url: /sales management/AASM
+            url: /salesmanagement/AASM
           - page: 에이전시 매출관리
-            url: /sales management/ASM
+            url: /salesmanagement/ASM
           - page: 지사 매출관리
-            url: /sales management/BSM
+            url: /salesmanagement/BSM
           - page: 가맹점 매출관리
-            url: /sales management/FSM
+            url: /salesmanagement/FSM
           - page: 월별 가맹점 매출관리
-            url: /sales management/MFSM
+            url: /salesmanagement/MFSM
           - page: 가맹점 정산 조회
-            url: /sales management/FSL
+            url: /salesmanagement/FSL
       - page: 대행사 정산
         url: /categories/settlement
         item2depth:

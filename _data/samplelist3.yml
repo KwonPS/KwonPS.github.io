@@ -56,12 +56,12 @@ toc3:
           - page: 자동 정산내역 조회
             url: /branch rs/b-autosettlement
       - page: 멤버 관리
-        url: /categories/branch MM
+        url: /categories/branchmm
         subsubfolderitems:
           - page: 로그인 ID 관리
-            url: /branch mm/b-idlookup
+            url: /branchmm/b-idlookup
           - page: 가맹점 등록
-            url: /branch mm/branch-mr
+            url: /branchmm/branch-mr
         url: /categories/branchcsc
         subsubfolderitems:
           - page: 공지사항

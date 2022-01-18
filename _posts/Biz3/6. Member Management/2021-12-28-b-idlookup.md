@@ -3,7 +3,7 @@ title:  "ID 조회"
 excerpt: "등록된 로그인 ID를 조회합니다"
 
 categories:
-  - branch MM
+  - branchmm
 tags:
   - [지사, 멤버관리, 로그인 ID관리, ID 조회]
 

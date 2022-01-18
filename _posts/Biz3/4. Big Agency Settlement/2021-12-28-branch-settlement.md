@@ -3,7 +3,7 @@ title:  "지사 정산 조회"
 excerpt: "검색 조건을 입력 및 선택하여 지사에 대한 정산 정보를 조회합니다"
 
 categories:
-  - branch settlement
+  - branchsettlement
 tags:
   - [지사, 대행사 정산 조회]
 toc: true

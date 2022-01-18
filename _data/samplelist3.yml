@@ -46,10 +46,10 @@ toc3:
           - page: 월별 가맹점 매출관리
             url: /branchsm/MFSM
       - page: 대행사 정산
-        url: /categories/branch settlement
+        url: /categories/branchsettlement
         subsubfolderitems:
           - page: 대행사 정산 조회
-            url: /branch settlement/branch-settlement
+            url: /branchsettlement/branch-settlement
       - page: 실시간 정산
         url: /categories/branchrs
         subsubfolderitems:

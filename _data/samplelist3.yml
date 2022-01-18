@@ -4,16 +4,16 @@ toc3:
       - page: DashBoard
         url: bizsdashboard/dashboard
       - page: 가맹점 관리
-        url: /categories/branch FM
+        url: /categories/branchfm
         subsubfolderitems:
           - page: 가맹점 조회
-            url: /branch fm/ASlookup
+            url: /branchfm/ASlookup
           - page: 터미널 조회
-            url: /branch fm/terminal
+            url: /branchfm/terminal
           - page: 가맹점 등록
-            url: /branch fm/ASenroll
+            url: /branchfm/ASenroll
           - page: 미실적 가맹점 조회
-            url: /branch fm/underperforming
+            url: /branchfm/underperforming
       - page: 거래 관리
         url: /categories/branch TM
         subsubfolderitems:

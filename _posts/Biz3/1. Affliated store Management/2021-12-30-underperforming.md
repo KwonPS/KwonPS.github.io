@@ -3,7 +3,7 @@ title:  "미실적 가맹점 조회"
 excerpt: "검색 조건을 입력하여 미실적 가맹점을 조회합니다"
 
 categories:
-  - branch FM
+  - branchfm
 tags:
   - [지사, 미실적 가맹점 조회]
 

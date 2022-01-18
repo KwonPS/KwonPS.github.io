@@ -152,10 +152,10 @@ toc3:
           - page: 대행사 정산 조회
             url: /agency settlement/agency-settlement
       - page: 실시간 정산
-        url: /categories/agency RS
+        url: /categories/agencyrs
         item2depth:
           - page: 자동 정산내역 조회
-            url: /agency rs/a-autosettlement
+            url: /agencyrs/a-autosettlement
       - page: 멤버 관리
         url: /categories/agencymm
         item2depth:

@@ -132,20 +132,20 @@ toc3:
           - page: 승인 취소내역 조회
             url: /agency tm/cancle-history
       - page: 매출 관리
-        url: /categories/agency SM
+        url: /categories/agencysm
         item2depth:
           - page: 월별 매출관리
-            url: /agency sm/a-MSM
+            url: /agencysm/a-MSM
           - page: 에이전시 매출관리
-            url: /agency sm/a-ASM
+            url: /agencysm/a-ASM
           - page: 지사 매출관리
-            url: /agency sm/a-BSM
+            url: /agencysm/a-BSM
           - page: 가맹점 매출관리
-            url: /agency sm/a-FSM
+            url: /agencysm/a-FSM
           - page: 월별 가맹점 매출관리
-            url: /agency sm/a-MFSM
+            url: /agencysm/a-MFSM
           - page: 가맹점 정산 조회
-            url: /agency sm/a-FSL
+            url: /agencysm/a-FSL
       - page: 대행사 정산
         url: /categories/agency settlement
         item2depth:

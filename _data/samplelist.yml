@@ -88,14 +88,14 @@ toc3:
               - page: 지사 등록
                 url: /branchmanagement/branchenrollment
       - page: 고객 센터
-        url: /categories/customer service center
+        url: /categories/customerservicecenter
         item2depth:
           - page: 공지사항
-            url: /customer service center/information
+            url: /customerservicecenter/information
           - page: 자주 묻는 질문
-            url: /customer service center/qna
+            url: /customerservicecenter/qna
           - page: 작업 관리
-            url: /customer service center/work
+            url: /customerservicecenter/work
   - title: BizA
     item1depth:
       - page: DashBoard

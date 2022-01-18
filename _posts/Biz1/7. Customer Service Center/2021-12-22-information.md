@@ -3,7 +3,7 @@ title:  "공지사항"
 excerpt: "공지사항 조회 페이지입니다"
 
 categories:
-  - customer service center
+  - customerservicecenter
 tags:
   - [대행사, 고객센터, 공지사항]
 

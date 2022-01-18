@@ -3,7 +3,7 @@ title:  "리스크 관리"
 excerpt: "검색 조건을 입력 및 선택하여 등록된 정산상태를 관리합니다"
 
 categories:
-  - affliated TM
+  - affliatedtm
 tags:
   - [가맹점, 리스크 관리]
 

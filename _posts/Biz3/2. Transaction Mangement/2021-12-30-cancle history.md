@@ -3,7 +3,7 @@ title:  "승인 취소내역 조회"
 excerpt: "검색 조건을 입력 및 선택하여 승인이 취소된 거래 내역을 조회합니다"
 
 categories:
-  - branch TM
+  - branchtm
 tags:
   - [지사, 승인 취소내역 조회]
 toc: true

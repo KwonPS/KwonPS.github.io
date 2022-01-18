@@ -3,7 +3,7 @@ title:  "매입 현황 조회"
 excerpt: "검색 조건을 입력하여 매입 현황을 조회합니다"
 
 categories:
-  - branch TM
+  - branchtm
 tags:
   - [지사, 매입 현황 조회]
 

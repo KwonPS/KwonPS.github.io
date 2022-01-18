@@ -60,7 +60,7 @@ toc3:
           - page: 자동 정산내역 조회
             url: /agency rs/a-autosettlement
       - page: 멤버 관리
-        url: /categories/agency MM
+        url: /categories/agencymm
         subsubfolderitems:
           - page: 로그인 아이디 관리
             url: /categories/agencylogin
@@ -70,7 +70,7 @@ toc3:
               - page: 지사 ID등록
                 url: /agencylogin/branchIDenroll
           - page: 가맹점 등록
-            url: /agency mm/agency-mr
+            url: /agencymm/agency-mr
           - page: 지사 관리
             url: /categories/abm
             subsubsubfolderitems:

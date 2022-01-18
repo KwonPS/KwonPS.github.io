@@ -62,11 +62,11 @@ toc3:
             url: /branch mm/b-idlookup
           - page: 가맹점 등록
             url: /branch mm/branch-mr
-        url: /categories/branch CSC
+        url: /categories/branchcsc
         subsubfolderitems:
           - page: 공지사항
-            url: /branch csc/3information
+            url: /branchcsc/3information
           - page: 자주 묻는 질문
-            url: /branch csc/2qna
+            url: /branchcsc/2qna
           - page: 작업 관리
-            url: /branch csc/1work
+            url: /branchcsc/1work

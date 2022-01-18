@@ -3,7 +3,7 @@ title:  "에이전시 정산 조회"
 excerpt: "검색 조건을 입력 및 선택하여 에이전시에 대한 정산 정보를 조회합니다"
 
 categories:
-  - agency settlement
+  - agencysettlement
 tags:
   - [에이전시, 대행사 정산 조회]
 toc: true

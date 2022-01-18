@@ -50,10 +50,10 @@ toc3:
           - page: 가맹점 정산 조회
             url: /agencysm/a-FSL
       - page: 대행사 정산
-        url: /categories/agency settlement
+        url: /categories/agencysettlement
         subsubfolderitems:
           - page: 대행사 정산 조회
-            url: /agency settlement/agency-settlement
+            url: /agencysettlement/agency-settlement
       - page: 실시간 정산
         url: /categories/agencyrs
         subsubfolderitems:

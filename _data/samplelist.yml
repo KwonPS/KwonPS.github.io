@@ -112,14 +112,14 @@ toc3:
           - page: 미실적 가맹점 조회
             url: /agencyfm/underperforming
       - page: 거래 관리
-        url: /categories/agency TM
+        url: /categories/agencytm
         item2depth:
           - page: 매입 현황 조회
-            url: /agency tm/purchasestatus
+            url: /agencytm/purchasestatus
           - page: 승인 내역 조회
-            url: /agency tm/ahlookup
+            url: /agencytm/ahlookup
           - page: 승인 실패 조회
-            url: /agency tm/failure
+            url: /agencytm/failure
           - page: 가상계좌 관리
             url: /categories/ava
             item3depth:
@@ -128,9 +128,9 @@ toc3:
               - page: 거래내역 조회
                 url: /ava/tranhistory
           - page: 리스크 관리
-            url: /agency tm/risk-management
+            url: /agencytm/risk-management
           - page: 승인 취소내역 조회
-            url: /agency tm/cancle-history
+            url: /agencytm/cancle-history
       - page: 매출 관리
         url: /categories/agencysm
         item2depth:

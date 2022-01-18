@@ -1,23 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2022-01-12T14:49:16+09:00</updated><id>/feed.xml</id><title type="html">KwonPS</title><subtitle>KwonPS_영업기획_대외배포용_매뉴얼_제작</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="/mysite/jekyll/update/welcome-to-jekyll/" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2022-01-12T14:07:15+09:00</published><updated>2022-01-12T14:07:15+09:00</updated><id>/mysite/jekyll/update/welcome-to-jekyll</id><content type="html" xml:base="/mysite/jekyll/update/welcome-to-jekyll/"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
-
-<p>Jekyll requires blog post files to be named according to the following format:</p>
-
-<p><code class="language-plaintext highlighter-rouge">YEAR-MONTH-DAY-title.MARKUP</code></p>
-
-<p>Where <code class="language-plaintext highlighter-rouge">YEAR</code> is a four-digit number, <code class="language-plaintext highlighter-rouge">MONTH</code> and <code class="language-plaintext highlighter-rouge">DAY</code> are both two-digit numbers, and <code class="language-plaintext highlighter-rouge">MARKUP</code> is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.</p>
-
-<p>Jekyll also offers powerful support for code snippets:</p>
-
-<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="k">def</span> <span class="nf">print_hi</span><span class="p">(</span><span class="nb">name</span><span class="p">)</span>
-  <span class="nb">puts</span> <span class="s2">"Hi, </span><span class="si">#{</span><span class="nb">name</span><span class="si">}</span><span class="s2">"</span>
-<span class="k">end</span>
-<span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
-<span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
-
-<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name></name></author><category term="mysite" /><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.]]></summary></entry><entry><title type="html">매입 현황 조회</title><link href="/agency%20tm/purchasestatus/" rel="alternate" type="text/html" title="매입 현황 조회" /><published>2021-12-30T00:00:00+09:00</published><updated>2021-12-27T00:00:00+09:00</updated><id>/agency%20tm/purchasestatus</id><content type="html" xml:base="/agency%20tm/purchasestatus/"><![CDATA[<h3 id="거래-관리---매입-현황-조회">거래 관리 - <em>매입 현황 조회</em></h3>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="/_layouts/home.html//feed.xml" rel="self" type="application/atom+xml" /><link href="/_layouts/home.html//" rel="alternate" type="text/html" /><updated>2022-01-18T10:28:12+09:00</updated><id>/_layouts/home.html//feed.xml</id><title type="html">KwonPS</title><subtitle>KwonPS_영업기획_대외배포용_매뉴얼_제작</subtitle><entry><title type="html">매입 현황 조회</title><link href="/_layouts/home.html//agency%20tm/purchasestatus/" rel="alternate" type="text/html" title="매입 현황 조회" /><published>2021-12-30T00:00:00+09:00</published><updated>2021-12-27T00:00:00+09:00</updated><id>/_layouts/home.html//agency%20tm/purchasestatus</id><content type="html" xml:base="/_layouts/home.html//agency%20tm/purchasestatus/"><![CDATA[<h3 id="거래-관리--매입-현황-조회">거래 관리 &gt; <em>매입 현황 조회</em></h3>
 <ul>
   <li>
-    <p>검색 조건을 입력하여 거래건별 승인내역 등 매입 현황을<br />조회합니다.</p>
+    <p>검색 조건을 입력하여 거래건별 승인내역 등 매입 현황을 조회합니다.</p>
   </li>
   <li>
     <p>승인번호 ~ 소속 선택까지 23가지 검색 조건을 입력 및 선택할 수 있습니다.</p>
@@ -26,10 +10,10 @@
     <p>검색 결과는 체크박스 ~ 리스크까지 18가지의 항목들로 구분됩니다.</p>
   </li>
   <li>
-    <p>조회 결과 항목 중 매입 번호를 통해 매입정보, 취소요청,<br />KSPAY 영수증 조회 등 매입내역에 대한 상세 정보를<br />확인할 수 있습니다.</p>
+    <p>조회 결과 항목 중 매입 번호를 통해 매입정보, 취소요청, KSPAY 영수증 조회 등<br />매입내역에 대한 상세 정보를 확인할 수 있습니다.</p>
   </li>
   <li>
-    <p>KSPAY 영수증 조회를 클릭하여 조회 및 VAN 매출전표를<br />출력할 수 있습니다.</p>
+    <p>KSPAY 영수증 조회를 클릭하여 조회 및 VAN 매출전표를 출력할 수 있습니다.</p>
   </li>
 </ul>
 
@@ -39,7 +23,8 @@
 
 <h4 id="검색-조건">검색 조건</h4>
 
-<p>승인번호, 매입번호, 가맹점명<br />거래일자/지급일/정산예정일/입금예정일, 승인금액, 리스크,<br />터미널 번호, 카드BIN, 카드뒤4자리, 매입구분, 정산상태,정산주기,<br />일시불/할부, 신용/체크, 매입사, 가맹점 대표자, VAN,<br />취소구분, 취소원거래번호, 거래번호, 가맹점 ID, 입금상태, 소속 선택<br />
+<p>승인번호, 매입번호, 가맹점명<br />거래일자/지급일/정산예정일/입금예정일,<br /> 승인금액, 리스크, 터미널 번호, 카드BIN, 카드뒤4자리, 매입구분,<br />정산상태,정산주기, 일시불/할부, 신용/체크, 매입사, 가맹점 대표자,<br />VAN, 취소구분, 취소원거래번호, 거래번호, 가맹점 ID, 입금상태, 소속 선택<br />
+<br />
 <br /></p>
 
 <p><img src="https://user-images.githubusercontent.com/95394003/146481772-129ea77c-27de-4d95-84df-cc3dd5c0a795.jpeg" alt="image" /><br />
@@ -76,7 +61,7 @@
 
 <p><strong>리스크</strong><br />
 리스크 종류를 선택합니다.<br />
-전체, 건한도, 중복, 고액, 최소금액, 야간할부, 1일중복, 주간할부,<br /> 야간건한도, 위험, 관리자설정
+전체 / 건한도 / 중복 / 고액 / 최소금액 / 야간할부 / 1일중복 / 주간할부 / 야간건한도 / 위험 / 관리자설정
 <br />
 <br /></p>
 
@@ -92,17 +77,17 @@
 카드번호 끝 4자리를 입력합니다.</p>
 
 <p><strong>매입구분</strong><br />
-매입에 대한 구분을 전체, 매입, 매입취소 중에 선택합니다.</p>
+매입에 대한 구분을 (전체 / 매입 / 매입취소) 중에 선택합니다.</p>
 
 <p><strong>정산상태</strong><br />
 정산에 대한 상태를 선택합니다.<br />
-전체, 대기, 확정, 보류, 완료 중에 선택합니다.
+(전체 / 대기 / 확정 / 보류 / 완료) 중에 선택합니다.
 <br />
 <br /></p>
 
 <p><strong>정산주기</strong><br />
 <img src="https://user-images.githubusercontent.com/95394003/146488198-6ca8c161-13e2-48b5-825d-f89fe582569b.jpeg" alt="정산주기" /><br />
-<br />정산주기를 선택합니다. (D+0~7, C+0~7, A+1, B+1)
+정산주기를 선택합니다. (D+0~7, C+0~7, A+1, B+1)<br />
 <br />
 <br /></p>
 
@@ -136,7 +121,7 @@ VAN 종류를 선택합니다.</p>
 가맹점 ID를 입력합니다.</p>
 
 <p><strong>입금상태</strong><br />
-입금상태를 선택합니다. 전체, 입금대기, 입금완료로 구분됩니다.</p>
+입금상태를 선택합니다. (전체 / 입금대기 / 입금완료)로 구분됩니다.</p>
 
 <p><strong>소속 선택</strong><br />
 지사를 선택합니다.
@@ -165,8 +150,8 @@ VAN 종류를 선택합니다.</p>
 <br /></p>
 
 <p><strong>매입번호</strong><br />
-<img src="https://user-images.githubusercontent.com/95394003/147442074-d093c8d0-b87d-4029-aa27-84a1eeda66ad.png" alt="image" />
-<br />매입번호를 나타냅니다.<br />클릭하면 매입내역에 대한 상세정보를 확인할 수 있습니다. <br />
+<img src="https://user-images.githubusercontent.com/95394003/147442074-d093c8d0-b87d-4029-aa27-84a1eeda66ad.png" alt="image" /><br />
+매입번호를 나타냅니다.<br />클릭하면 매입내역에 대한 상세정보를 확인할 수 있습니다. <br />
 매입 정보를 조회하고 취소를 요청할 수도 있습니다.
 <br /></p>
 
@@ -210,7 +195,7 @@ VAN 종류를 선택합니다.</p>
 일시불 거래일 경우 00으로 표기됩니다.</p>
 
 <p><strong>리스크</strong><br />
-리스크를 구분해서 나타냅니다.</p>]]></content><author><name></name></author><category term="agency TM" /><category term="에이전시" /><category term="매입 현황 조회" /><summary type="html"><![CDATA[검색 조건을 입력하여 매입 현황을 조회합니다]]></summary></entry><entry><title type="html">월별 매출관리</title><link href="/branch%20sm/MSM/" rel="alternate" type="text/html" title="월별 매출관리" /><published>2021-12-30T00:00:00+09:00</published><updated>2021-12-27T00:00:00+09:00</updated><id>/branch%20sm/MSM</id><content type="html" xml:base="/branch%20sm/MSM/"><![CDATA[<h3 id="매출-관리---월별-매출관리">매출 관리 - <em>월별 매출관리</em></h3>
+리스크를 구분해서 나타냅니다.</p>]]></content><author><name></name></author><category term="agency TM" /><category term="에이전시" /><category term="매입 현황 조회" /><summary type="html"><![CDATA[검색 조건을 입력하여 매입 현황을 조회합니다]]></summary></entry><entry><title type="html">월별 매출관리</title><link href="/_layouts/home.html//branch%20sm/MSM/" rel="alternate" type="text/html" title="월별 매출관리" /><published>2021-12-30T00:00:00+09:00</published><updated>2021-12-27T00:00:00+09:00</updated><id>/_layouts/home.html//branch%20sm/MSM</id><content type="html" xml:base="/_layouts/home.html//branch%20sm/MSM/"><![CDATA[<h3 id="매출-관리--월별-매출관리">매출 관리 &gt; <em>월별 매출관리</em></h3>
 <ul>
   <li>
     <p>조회할 기간을 설정하여 해당 월별 매출을 조회합니다.</p>
@@ -222,7 +207,7 @@ VAN 종류를 선택합니다.</p>
     <p>검색 결과는 No ~ 지사 수익까지 6가지의 항목들로 구분됩니다.</p>
   </li>
   <li>
-    <p>매입 현황과 매입 취소 현황, 합계 금액, 건수 및 지사 수익을<br />조회할 수 있습니다.</p>
+    <p>매입 현황과 매입 취소 현황, 합계 금액, 건수 및 지사 수익을 조회할 수 있습니다.</p>
   </li>
 </ul>
 
@@ -244,7 +229,7 @@ VAN 종류를 선택합니다.</p>
 <hr />
 
 <h4 id="검색-결과">검색 결과</h4>
-<p>No, 매입월, 매입현황, 매입취소현황,<br />합계(금액/건수/정산금액/가맹점수수료), 지사 수익<br />
+<p>No, 매입월, 매입현황, 매입취소현황, 합계(금액/건수/정산금액/가맹점수수료), 지사 수익<br />
 <br /></p>
 
 <p><img src="https://user-images.githubusercontent.com/95394003/147457161-321a3afd-2dc6-40fe-a1fd-3c10e8edc2f1.jpeg" alt="지사월별매출관리검색결과" /><br />
@@ -276,7 +261,7 @@ VAN 종류를 선택합니다.</p>
 정산 금액이 얼마인지를 나타냅니다.</p>
 
 <p><strong>가맹점수수료</strong><br />
-가맹점 수수료가 얼마인지를 나타냅니다.</p>]]></content><author><name></name></author><category term="branch SM" /><category term="지사" /><category term="월별 매출관리" /><summary type="html"><![CDATA[조회할 기간을 설정하여 해당 월별 매출을 조회합니다]]></summary></entry><entry><title type="html">가맹점 조회</title><link href="/branch%20fm/ASLookup/" rel="alternate" type="text/html" title="가맹점 조회" /><published>2021-12-30T00:00:00+09:00</published><updated>2021-12-30T00:00:00+09:00</updated><id>/branch%20fm/ASLookup</id><content type="html" xml:base="/branch%20fm/ASLookup/"><![CDATA[<h3 id="가맹점-관리---가맹점-조회">가맹점 관리 - <em>가맹점 조회</em></h3>
+가맹점 수수료가 얼마인지를 나타냅니다.</p>]]></content><author><name></name></author><category term="branch SM" /><category term="지사" /><category term="월별 매출관리" /><summary type="html"><![CDATA[조회할 기간을 설정하여 해당 월별 매출을 조회합니다]]></summary></entry><entry><title type="html">가맹점 조회</title><link href="/_layouts/home.html//branch%20fm/ASLookup/" rel="alternate" type="text/html" title="가맹점 조회" /><published>2021-12-30T00:00:00+09:00</published><updated>2021-12-30T00:00:00+09:00</updated><id>/_layouts/home.html//branch%20fm/ASLookup</id><content type="html" xml:base="/_layouts/home.html//branch%20fm/ASLookup/"><![CDATA[<h3 id="가맹점-관리--가맹점-조회">가맹점 관리 &gt; <em>가맹점 조회</em></h3>
 <ul>
   <li>
     <p>검색 조건을 입력하여 등록된 가맹점을 조회합니다.<br /></p>
@@ -306,9 +291,10 @@ VAN 종류를 선택합니다.</p>
 <hr />
 
 <h4 id="검색-조건">검색 조건</h4>
-<p>아이디, 가맹점명, 사업자(주민)번호, 상태, 대표자이름, 전화번호,<br />정산주기, 담당자이름
-```
-<img src="https://user-images.githubusercontent.com/95394003/146112518-8ff9309c-a45d-4596-a1c1-64e64d521a90.jpeg" alt="아이디가맹점사업자" /> <br />
+<p>아이디, 가맹점명, 사업자(주민)번호, 상태, 대표자이름, 전화번호,<br />정산주기, 담당자이름<br />
+<br /></p>
+
+<p><img src="https://user-images.githubusercontent.com/95394003/146112518-8ff9309c-a45d-4596-a1c1-64e64d521a90.jpeg" alt="아이디가맹점사업자" /> <br />
 <strong>아이디</strong>
 <br />등록된 가맹점 ID를 입력합니다.</p>
 
@@ -320,8 +306,9 @@ VAN 종류를 선택합니다.</p>
 <br />
 <br /></p>
 
-<p><strong>상태</strong><br />
-<img src="https://user-images.githubusercontent.com/95394003/146114750-edd257df-fd47-466e-b0a1-4751523fa8a1.jpeg" alt="상태" /><br />
+<p><strong>상태</strong><br /></p>
+
+<p><img src="https://user-images.githubusercontent.com/95394003/146114750-edd257df-fd47-466e-b0a1-4751523fa8a1.jpeg" alt="상태" /><br />
 계정의 상태를 선택합니다. <br />
 상태/ 예비 / 승인대기 / 사용 / 중지 중 선택합니다.
 <br />
@@ -341,25 +328,30 @@ VAN 종류를 선택합니다.</p>
 <br />
 <br /></p>
 
-<p><strong>정산주기</strong><br />
-<img src="https://user-images.githubusercontent.com/95394003/146113348-cbe31c00-e08b-4e43-8e6e-92b0e4f1ec94.jpeg" alt="정산주기" />
+<p><strong>정산주기</strong><br /></p>
+
+<p><img src="https://user-images.githubusercontent.com/95394003/146113348-cbe31c00-e08b-4e43-8e6e-92b0e4f1ec94.jpeg" alt="정산주기" />
 <br />전체/ D+0 / A+1 / D+1 / D+5 중 선택합니다.
 <br />
 <br />
 <br /></p>
 
-<p><img src="https://user-images.githubusercontent.com/95394003/145962859-5a6bdfe6-eae1-4270-a66f-7301f41da9e7.jpeg" alt="reset,search" /><br />
-<strong>reset</strong><br />
-입력한 검색 조건 내용을 초기화합니다.
-<strong>search</strong><br />
+<p><img src="https://user-images.githubusercontent.com/95394003/145962859-5a6bdfe6-eae1-4270-a66f-7301f41da9e7.jpeg" alt="RESET,SEARCH" /><br />
+<strong>RESET</strong><br />
+입력한 검색 조건 내용을 초기화합니다.<br /></p>
+
+<p><strong>SEARCH</strong><br />
 입력한 검색 조건에 대한 결과를 보여줍니다.
 <br />
 <br />
 <br /></p>
 
 <h4 id="검색-결과">검색 결과</h4>
-<p>No, 아이디, 이름, 사업자(주민)번호, 대표자이름, 상태, 지사,<br />예수금, 정산주기, 수수료, 등록자, 등록일시
-<img src="https://user-images.githubusercontent.com/95394003/147435076-59816b60-2dce-4a8c-8e6a-3d3eb39f94be.jpeg" alt="지사 가맹점조회 조회결과" />
+<p>No, 아이디, 이름, 사업자(주민)번호, 대표자이름, 상태, 지사, 예수금, 정산주기, 수수료, 등록자, 등록일시<br />
+<br />
+<br /></p>
+
+<p><img src="https://user-images.githubusercontent.com/95394003/147435076-59816b60-2dce-4a8c-8e6a-3d3eb39f94be.jpeg" alt="지사 가맹점조회 조회결과" /><br />
 <strong>No</strong>
 <br />조회된 결과의 리스트 번호를 나타냅니다.</p>
 
@@ -376,13 +368,13 @@ VAN 종류를 선택합니다.</p>
 <br />해당 가맹점의 대표자 이름입니다.</p>
 
 <p><strong>상태</strong>
-<br />해당 가맹점 계정의 상태입니다. <br />예비, 승인대기, 사용, 중지로 구분됩니다.</p>
+<br />해당 가맹점 계정의 상태입니다. <br />(예비 / 승인대기 / 사용 / 중지)로 구분됩니다.</p>
 
 <p><strong>지사</strong>
 <br />해당 가맹점이 소속되어있는 지사입니다.</p>
 
 <p><strong>예수금</strong>
-<br />해당 가맹점의 잔여 예수금을 나타냅니다.<br />클릭하면 예수금 조회 페이지로 이동하여<br />조회 및 수기입력이 가능합니다.</p>
+<br />해당 가맹점의 잔여 예수금을 나타냅니다.<br />클릭하면 예수금 조회 페이지로 이동하여 조회 및 수기입력이 가능합니다.</p>
 
 <p><strong>정산주기</strong>
 <br />해당 가맹점의 정산주기입니다.</p>
@@ -394,13 +386,13 @@ VAN 종류를 선택합니다.</p>
 <br />해당 가맹점 정보를 등록한 관리자의 아이디입니다.</p>
 
 <p><strong>등록일시</strong>
-<br />해당 내용을 등록한 날짜와 시간입니다.</p>]]></content><author><name></name></author><category term="branch FM" /><category term="지사" /><category term="가맹점 조회" /><summary type="html"><![CDATA[등록된 가맹점을 조회합니다.]]></summary></entry><entry><title type="html">공지사항</title><link href="/agency%20csc/a-information/" rel="alternate" type="text/html" title="공지사항" /><published>2021-12-30T00:00:00+09:00</published><updated>2021-12-30T00:00:00+09:00</updated><id>/agency%20csc/a-information</id><content type="html" xml:base="/agency%20csc/a-information/"><![CDATA[<h3 id="고객-센터---공지사항">고객 센터 - <em>공지사항</em></h3>
+<br />해당 내용을 등록한 날짜와 시간입니다.</p>]]></content><author><name></name></author><category term="branch FM" /><category term="지사" /><category term="가맹점 조회" /><summary type="html"><![CDATA[등록된 가맹점을 조회합니다.]]></summary></entry><entry><title type="html">공지사항</title><link href="/_layouts/home.html//agency%20csc/a-information/" rel="alternate" type="text/html" title="공지사항" /><published>2021-12-30T00:00:00+09:00</published><updated>2021-12-30T00:00:00+09:00</updated><id>/_layouts/home.html//agency%20csc/a-information</id><content type="html" xml:base="/_layouts/home.html//agency%20csc/a-information/"><![CDATA[<h3 id="고객-센터--공지사항">고객 센터 &gt; <em>공지사항</em></h3>
 <ul>
   <li>
     <p>등록된 공지사항을 조회하는 페이지입니다.</p>
   </li>
   <li>
-    <p>목록화 되어 있고 공지사항 각 제목을 클릭하면 상세내용을<br />확인할 수 있습니다.</p>
+    <p>목록화 되어 있고 공지사항 각 제목을 클릭하면 상세내용을 확인할 수 있습니다.</p>
   </li>
 </ul>
 
@@ -424,7 +416,7 @@ VAN 종류를 선택합니다.</p>
 공지사항을 등록한 등록자를 나타냅니다.</p>
 
 <p><strong>등록일시</strong><br />
-공지사항이 등록된 일시를 나타냅니다.</p>]]></content><author><name></name></author><category term="agency CSC" /><category term="에이전시" /><category term="고객센터" /><category term="공지사항" /><summary type="html"><![CDATA[공지사항 조회 페이지입니다]]></summary></entry><entry><title type="html">로그인 ID관리 - ID 조회</title><link href="/agencylogin/idlookup/" rel="alternate" type="text/html" title="로그인 ID관리 - ID 조회" /><published>2021-12-30T00:00:00+09:00</published><updated>2021-12-30T00:00:00+09:00</updated><id>/agencylogin/idlookup</id><content type="html" xml:base="/agencylogin/idlookup/"><![CDATA[<h3 id="멤버관리---id-조회">멤버관리 - <em>ID 조회</em></h3>
+공지사항이 등록된 일시를 나타냅니다.</p>]]></content><author><name></name></author><category term="agency CSC" /><category term="에이전시" /><category term="고객센터" /><category term="공지사항" /><summary type="html"><![CDATA[공지사항 조회 페이지입니다]]></summary></entry><entry><title type="html">ID 조회</title><link href="/_layouts/home.html//agencylogin/idlookup/" rel="alternate" type="text/html" title="ID 조회" /><published>2021-12-30T00:00:00+09:00</published><updated>2021-12-30T00:00:00+09:00</updated><id>/_layouts/home.html//agencylogin/idlookup</id><content type="html" xml:base="/_layouts/home.html//agencylogin/idlookup/"><![CDATA[<h3 id="멤버-관리--로그인-id관리--id-조회">멤버 관리 &gt; 로그인 ID관리 &gt; <em>ID 조회</em></h3>
 <ul>
   <li>
     <p>검색 조건을 입력 및 선택하여 등록된 로그인 ID를 조회합니다.</p>
@@ -457,19 +449,19 @@ VAN 종류를 선택합니다.</p>
 등록일을 설정합니다. 날짜부터 날짜로 설정 가능합니다.</p>
 
 <p><strong>권한</strong><br />
-권한을 선택합니다. 일반, 관리자, 마스터로 구분됩니다.</p>
+권한을 선택합니다. (일반 / 관리자 / 마스터)로 구분됩니다.</p>
 
 <p><strong>소속</strong><br />
-소속을 선택합니다. 본사, 대행사, 에이전시, 지사로 구분됩니다.</p>
+소속을 선택합니다. (본사 / 대행사 / 에이전시 / 지사)로 구분됩니다.</p>
 
 <p><strong>상태</strong><br />
-상태를 선택합니다. 예비, 사용, 중지로 구분됩니다.
+상태를 선택합니다. (예비 / 사용 / 중지)로 구분됩니다.
 <br /></p>
 
 <hr />
 
 <h4 id="검색-결과">검색 결과</h4>
-<p>No, 아이디, 이름, 소속, 권한, 기타거래, 상태, 대출정산, 전화번호,<br />등록자, 등록일시<br />
+<p>No, 아이디, 이름, 소속, 권한, 기타거래, 상태, 대출정산, 전화번호, 등록자, 등록일시<br />
 <br /></p>
 
 <p><img src="https://user-images.githubusercontent.com/95394003/147541226-6a04fd54-4733-4400-a7d8-b180ae21344d.png" alt="image" /><br />
@@ -484,7 +476,7 @@ VAN 종류를 선택합니다.</p>
 
 <p><strong>소속</strong><br />
 소속이 어디인지를 나타냅니다.<br />
-본사, 대행사, 에이전시, 지사, 가맹점으로 구분됩니다.</p>
+(본사 / 대행사 / 에이전시 / 지사), 가맹점으로 구분됩니다.</p>
 
 <p><strong>권한</strong><br />
 해당 계정의 권한을 나타냅니다.</p>
@@ -493,7 +485,7 @@ VAN 종류를 선택합니다.</p>
 기타거래에 대한 사용여부를 나타냅니다.</p>
 
 <p><strong>상태</strong><br />
-상태를 나타냅니다. 예비, 사용, 중지로 구분됩니다.</p>
+상태를 나타냅니다. (예비 / 사용 / 중지)로 구분됩니다.</p>
 
 <p><strong>대출정산</strong><br />
 대출정산에 대한 사용 여부를 나타냅니다.</p>
@@ -505,7 +497,7 @@ VAN 종류를 선택합니다.</p>
 해당 계정을 등록한 등록자를 나타냅니다.</p>
 
 <p><strong>등록일시</strong><br />
-해당 계정이 등록된 일시를 나타냅니다.<br />연, 월, 일, 시간으로 표기됩니다.</p>]]></content><author><name></name></author><category term="agencylogin" /><category term="에이전시" /><category term="멤버관리" /><category term="로그인 ID관리" /><category term="ID 조회" /><summary type="html"><![CDATA[등록된 로그인 ID를 조회합니다]]></summary></entry><entry><title type="html">월별 매출관리</title><link href="/agency%20sm/a-MSM/" rel="alternate" type="text/html" title="월별 매출관리" /><published>2021-12-30T00:00:00+09:00</published><updated>2021-12-30T00:00:00+09:00</updated><id>/agency%20sm/a-MSM</id><content type="html" xml:base="/agency%20sm/a-MSM/"><![CDATA[<h3 id="매출-관리---월별-매출관리">매출 관리 - <em>월별 매출관리</em></h3>
+해당 계정이 등록된 일시를 나타냅니다.<br />연, 월, 일, 시간으로 표기됩니다.</p>]]></content><author><name></name></author><category term="agencylogin" /><category term="에이전시" /><category term="멤버관리" /><category term="로그인 ID관리" /><category term="ID 조회" /><summary type="html"><![CDATA[등록된 로그인 ID를 조회합니다]]></summary></entry><entry><title type="html">월별 매출관리</title><link href="/_layouts/home.html//agency%20sm/a-MSM/" rel="alternate" type="text/html" title="월별 매출관리" /><published>2021-12-30T00:00:00+09:00</published><updated>2021-12-30T00:00:00+09:00</updated><id>/_layouts/home.html//agency%20sm/a-MSM</id><content type="html" xml:base="/_layouts/home.html//agency%20sm/a-MSM/"><![CDATA[<h3 id="매출-관리--월별-매출관리">매출 관리 &gt; <em>월별 매출관리</em></h3>
 <ul>
   <li>
     <p>조회할 기간을 설정하여 해당 월별 매출을 조회합니다.</p>
@@ -517,7 +509,7 @@ VAN 종류를 선택합니다.</p>
     <p>검색 결과는 No ~ 에이전시 수익까지 6가지의 항목들로 구분됩니다.</p>
   </li>
   <li>
-    <p>매입 현황과 매입 취소 현황, 합계 금액, 건수 및 에이전시 수익을<br />조회할 수 있습니다.</p>
+    <p>매입 현황과 매입 취소 현황, 합계 금액, 건수 및 에이전시 수익을 조회할 수 있습니다.</p>
   </li>
 </ul>
 
@@ -542,7 +534,7 @@ VAN 종류를 선택합니다.</p>
 <hr />
 
 <h4 id="검색-결과">검색 결과</h4>
-<p>No, 매입월, 매입현황, 매입취소현황,<br />합계(금액/건수/정산금액/가맹점수수료), 에이전시 수익<br />
+<p>No, 매입월, 매입현황, 매입취소현황, 합계(금액/건수/정산금액/가맹점수수료), 에이전시 수익<br />
 <br /></p>
 
 <p><img src="https://user-images.githubusercontent.com/95394003/146702711-840d85cb-b22b-4497-8d4f-3c75939d1e2c.jpeg" alt="월별매출관리조회결과" /><br />
@@ -574,13 +566,13 @@ VAN 종류를 선택합니다.</p>
 정산 금액이 얼마인지를 나타냅니다.</p>
 
 <p><strong>가맹점수수료</strong><br />
-가맹점 수수료가 얼마인지를 나타냅니다.</p>]]></content><author><name></name></author><category term="agency SM" /><category term="에이전시" /><category term="월별 매출관리" /><summary type="html"><![CDATA[조회할 기간을 설정하여 해당 월별 매출을 조회합니다]]></summary></entry><entry><title type="html">공지사항</title><link href="/affliated%20csc/information/" rel="alternate" type="text/html" title="공지사항" /><published>2021-12-29T00:00:00+09:00</published><updated>2021-12-29T00:00:00+09:00</updated><id>/affliated%20csc/information</id><content type="html" xml:base="/affliated%20csc/information/"><![CDATA[<h3 id="고객-센터---공지사항">고객 센터 - <em>공지사항</em></h3>
+가맹점 수수료가 얼마인지를 나타냅니다.</p>]]></content><author><name></name></author><category term="agency SM" /><category term="에이전시" /><category term="월별 매출관리" /><summary type="html"><![CDATA[조회할 기간을 설정하여 해당 월별 매출을 조회합니다]]></summary></entry><entry><title type="html">공지사항</title><link href="/_layouts/home.html//affliated%20csc/information/" rel="alternate" type="text/html" title="공지사항" /><published>2021-12-29T00:00:00+09:00</published><updated>2021-12-29T00:00:00+09:00</updated><id>/_layouts/home.html//affliated%20csc/information</id><content type="html" xml:base="/_layouts/home.html//affliated%20csc/information/"><![CDATA[<h3 id="고객-센터--공지사항">고객 센터 &gt; <em>공지사항</em></h3>
 <ul>
   <li>
     <p>등록된 공지사항을 조회하는 페이지입니다.</p>
   </li>
   <li>
-    <p>목록화 되어 있고 공지사항 각 제목을 클릭하면 상세내용을<br />확인할 수 있습니다.</p>
+    <p>목록화 되어 있고 공지사항 각 제목을 클릭하면 상세내용을 확인할 수 있습니다.</p>
   </li>
 </ul>
 
@@ -604,7 +596,7 @@ VAN 종류를 선택합니다.</p>
 공지사항을 등록한 등록자를 나타냅니다.</p>
 
 <p><strong>등록일시</strong><br />
-공지사항이 등록된 일시를 나타냅니다.</p>]]></content><author><name></name></author><category term="affliated CSC" /><category term="가맹점" /><category term="고객센터" /><category term="공지사항" /><summary type="html"><![CDATA[공지사항 조회 페이지입니다]]></summary></entry><entry><title type="html">거래내역 조회</title><link href="/affliated%20cs/transactionhistory/" rel="alternate" type="text/html" title="거래내역 조회" /><published>2021-12-29T00:00:00+09:00</published><updated>2021-12-29T00:00:00+09:00</updated><id>/affliated%20cs/transactionhistory</id><content type="html" xml:base="/affliated%20cs/transactionhistory/"><![CDATA[<h3 id="충전-정산---거래내역-조회">충전 정산 - <em>거래내역 조회</em></h3>
+공지사항이 등록된 일시를 나타냅니다.</p>]]></content><author><name></name></author><category term="affliated CSC" /><category term="가맹점" /><category term="고객센터" /><category term="공지사항" /><summary type="html"><![CDATA[공지사항 조회 페이지입니다]]></summary></entry><entry><title type="html">거래내역 조회</title><link href="/_layouts/home.html//affliated%20cs/transactionhistory/" rel="alternate" type="text/html" title="거래내역 조회" /><published>2021-12-29T00:00:00+09:00</published><updated>2021-12-29T00:00:00+09:00</updated><id>/_layouts/home.html//affliated%20cs/transactionhistory</id><content type="html" xml:base="/_layouts/home.html//affliated%20cs/transactionhistory/"><![CDATA[<h3 id="충전-정산--거래내역-조회">충전 정산 &gt; <em>거래내역 조회</em></h3>
 <ul>
   <li>
     <p>검색조건을 입력 및 선택하여 충전정산에 대한 거래내역을 조회합니다.</p>
@@ -634,7 +626,7 @@ VAN 종류를 선택합니다.</p>
 거래종류를 선택합니다. 입금과 출금으로 구분됩니다.</p>
 
 <p><strong>거래유형</strong><br />
-거래의 유형을 선택합니다.<br />신용카드정산, 가상계좌정산, 펌뱅킹으로 구분됩니다.</p>
+거래의 유형을 선택합니다.<br />(신용카드정산 / 가상계좌정산 / 펌뱅킹)으로 구분됩니다.</p>
 
 <p><strong>거래번호</strong><br />
 거래번호를 입력합니다.</p>
@@ -649,7 +641,8 @@ VAN 종류를 선택합니다.</p>
 <hr />
 
 <h4 id="검색-결과">검색 결과</h4>
-<p>No, 거래번호, 거래종류, 거래유형, 가맹점, 가맹점아이디, 주문번호,<br />참조번호, 입출금원금, 수수료, 수수료부가세, 계정실출금액, 거래후잔액,<br />등록자, 거래일시<br />
+<p>No, 거래번호, 거래종류, 거래유형, 가맹점, 가맹점아이디, 주문번호, 참조번호,<br />입출금원금, 수수료, 수수료부가세, 계정실출금액, 거래후잔액, 등록자, 거래일시<br />
+<br />
 <br /></p>
 
 <p><img src="https://user-images.githubusercontent.com/95394003/147639729-7a8e162f-3f1e-47e8-a873-339542ce1a27.jpeg" alt="충전 거래내역 검색결과" /><br />
@@ -664,7 +657,7 @@ VAN 종류를 선택합니다.</p>
 
 <p><strong>거래유형</strong><br />
 거래의 유형을 나타냅니다.<br />
-신용카드정산, 가상계좌정산, 펌뱅킹으로 구분됩니다.</p>
+(신용카드정산 / 가상계좌정산 / 펌뱅킹)으로 구분됩니다.</p>
 
 <p><strong>가맹점</strong><br />
 해당 가맹점을 표기합니다.</p>
@@ -697,7 +690,7 @@ VAN 종류를 선택합니다.</p>
 해당 거래에 대해 등록한 아이디를 나타냅니다.</p>
 
 <p><strong>거래일시</strong><br />
-거래일시가 언제인지를 나타냅니다.</p>]]></content><author><name></name></author><category term="affliated CS" /><category term="가맹점" /><category term="충전정산" /><category term="거래내역 조회" /><summary type="html"><![CDATA[충전정산에 대한 거래내역을 조회합니다.]]></summary></entry><entry><title type="html">신용카드 정산 조회</title><link href="/affliated%20ss/creditcard/" rel="alternate" type="text/html" title="신용카드 정산 조회" /><published>2021-12-29T00:00:00+09:00</published><updated>2021-12-29T00:00:00+09:00</updated><id>/affliated%20ss/creditcard</id><content type="html" xml:base="/affliated%20ss/creditcard/"><![CDATA[<h3 id="매출-및-정산-내역---신용카드-정산-조회">매출 및 정산 내역 - <em>신용카드 정산 조회</em></h3>
+거래일시가 언제인지를 나타냅니다.</p>]]></content><author><name></name></author><category term="affliated CS" /><category term="가맹점" /><category term="충전정산" /><category term="거래내역 조회" /><summary type="html"><![CDATA[충전정산에 대한 거래내역을 조회합니다.]]></summary></entry><entry><title type="html">신용카드 정산 조회</title><link href="/_layouts/home.html//affliated%20ss/creditcard/" rel="alternate" type="text/html" title="신용카드 정산 조회" /><published>2021-12-29T00:00:00+09:00</published><updated>2021-12-29T00:00:00+09:00</updated><id>/_layouts/home.html//affliated%20ss/creditcard</id><content type="html" xml:base="/_layouts/home.html//affliated%20ss/creditcard/"><![CDATA[<h3 id="매출-및-정산-내역--신용카드-정산-조회">매출 및 정산 내역 &gt; <em>신용카드 정산 조회</em></h3>
 <ul>
   <li>
     <p>검색 조건을 입력 및 선택하여 신용카드에 대한 정산 정보를 조회합니다.</p>
@@ -716,7 +709,8 @@ VAN 종류를 선택합니다.</p>
 <hr />
 
 <h4 id="검색-조건">검색 조건</h4>
-<p>가맹점ID, 가맹점명, 가맹점 대표자, 정산예정일, 정산번호,<br />지급 상태, 정산주기, 정산구분<br />
+<p>가맹점ID, 가맹점명, 가맹점 대표자, 정산예정일, 정산번호, 지급 상태, 정산주기, 정산구분<br />
+<br />
 <br /></p>
 
 <p><img src="https://user-images.githubusercontent.com/95394003/147635502-269bd217-416c-402e-a325-e029399d60ca.jpeg" alt="신용카드 정산 검색조건" /><br />
@@ -730,13 +724,13 @@ VAN 종류를 선택합니다.</p>
 가맹점 대표자를 입력합니다.</p>
 
 <p><strong>정산예정일</strong><br />
-정산예정일의 기간을 설정합니다. 날짜부터 날짜로 설정할 수 있습니다.</p>
+정산예정일의 기간을 설정합니다.<br />날짜부터 날짜로 설정할 수 있습니다.</p>
 
 <p><strong>정산번호</strong><br />
 정산번호를 입력합니다.</p>
 
 <p><strong>지급 상태</strong><br />
-지급 상태를 선택합니다.<br />지급대기, 지급완료, 지급보류, 지급실패로 구분됩니다.</p>
+지급 상태를 선택합니다.<br />(지급대기 / 지급완료 / 지급보류 / 지급실패)로 구분됩니다.</p>
 
 <p><strong>정산주기</strong><br />
 정산주기를 선택합니다.<br />
@@ -750,6 +744,7 @@ D+ 1~7, C+ 1~7 중 선택합니다.</p>
 
 <h4 id="검색-결과">검색 결과</h4>
 <p>No, 정산구분, 정산번호, 지급상태, 정산일, 가맹점명, 가맹점ID,<br />가맹점대표자명, 대상거래 기간, 매출정보, 대출정산차감금액,<br />예수금(미출금), 실지급액, 지급정보<br />
+<br />
 <br /></p>
 
 <p><img src="https://user-images.githubusercontent.com/95394003/147635503-b4865108-866d-4959-9e27-f252898b2387.jpeg" alt="신용카드정산 검색결과" /><br />
@@ -763,7 +758,7 @@ D+ 1~7, C+ 1~7 중 선택합니다.</p>
 정산번호를 표기합니다.</p>
 
 <p><strong>지급상태</strong><br />
-지급상태를 표기합니다.<br />지급대기, 지급완료, 지급보류, 지급실패로 구분됩니다.</p>
+지급상태를 표기합니다.<br />(지급대기 / 지급완료 / 지급보류 / 지급실패)로 구분됩니다.</p>
 
 <p><strong>정산일</strong><br />
 정산일이 언제인지를 나타냅니다.</p>
@@ -821,4 +816,200 @@ D+ 1~7, C+ 1~7 중 선택합니다.</p>
 계좌 정보를 표기합니다.</p>
 
 <p><strong>정산수수료율</strong><br />
-정산 수수료율이 몇 %인지를 나타냅니다.</p>]]></content><author><name></name></author><category term="affliated SS" /><category term="가맹점" /><category term="매출 및 정산 내역" /><category term="신용카드 정산 조회" /><summary type="html"><![CDATA[신용카드에 대한 정산정보를 조회합니다]]></summary></entry></feed>
+정산 수수료율이 몇 %인지를 나타냅니다.</p>]]></content><author><name></name></author><category term="affliated SS" /><category term="가맹점" /><category term="매출 및 정산 내역" /><category term="신용카드 정산 조회" /><summary type="html"><![CDATA[신용카드에 대한 정산정보를 조회합니다]]></summary></entry><entry><title type="html">매입 현황 조회</title><link href="/_layouts/home.html//affliated%20tm/purchasestatus/" rel="alternate" type="text/html" title="매입 현황 조회" /><published>2021-12-29T00:00:00+09:00</published><updated>2021-12-29T00:00:00+09:00</updated><id>/_layouts/home.html//affliated%20tm/purchasestatus</id><content type="html" xml:base="/_layouts/home.html//affliated%20tm/purchasestatus/"><![CDATA[<h3 id="거래-관리--매입-현황-조회">거래 관리 &gt; <em>매입 현황 조회</em></h3>
+<ul>
+  <li>
+    <p>검색 조건을 입력하여 거래건별 승인내역 등 매입 현황을 조회합니다.</p>
+  </li>
+  <li>
+    <p>승인번호 ~ 입금상태까지 22가지 검색 조건을 입력 및 선택할 수 있습니다.</p>
+  </li>
+  <li>
+    <p>검색 결과는 체크박스 ~ 리스크까지 18가지의 항목들로 구분됩니다.</p>
+  </li>
+  <li>
+    <p>조회 결과 항목 중 매입 번호를 통해 매입정보, 취소요청, KSPAY 영수증 조회 등<br />매입내역에 대한 상세 정보를 확인할 수 있습니다.</p>
+  </li>
+  <li>
+    <p>KSPAY 영수증 조회를 클릭하여 조회 및 VAN 매출전표를 출력할 수 있습니다.</p>
+  </li>
+</ul>
+
+<p><img src="https://user-images.githubusercontent.com/95394003/147629993-ec522f9e-4e87-460f-8dbc-47cd4d13914d.jpeg" alt="가맹점 매입현황조회" /></p>
+
+<hr />
+
+<h4 id="검색-조건">검색 조건</h4>
+<p>승인번호, 매입번호, 가맹점명<br />거래일자/지급일/정산예정일/입금예정일,<br />승인금액, 리스크, 터미널 번호, 카드BIN, 카드뒤4자리, 매입구분,<br />정산상태,정산주기, 일시불/할부, 신용/체크, 매입사, 가맹점 대표자,<br />VAN, 취소구분, 취소원거래번호, 거래번호, 가맹점 ID, 입금상태<br />
+<br />
+<br /></p>
+
+<p><img src="https://user-images.githubusercontent.com/95394003/146481772-129ea77c-27de-4d95-84df-cc3dd5c0a795.jpeg" alt="image" /><br />
+<strong>승인번호</strong><br />
+거래 승인번호를 입력합니다.</p>
+
+<p><strong>매입번호</strong><br />
+거래 매입번호를 입력합니다.</p>
+
+<p><strong>가맹점명</strong><br />
+거래가 발생한 가맹점의 이름을 입력합니다
+<br />
+<br /></p>
+
+<p><img src="https://user-images.githubusercontent.com/95394003/146482288-281b97a7-3e60-4c56-b40a-b5889a1299c7.jpeg" alt="거래일자" /><br />
+<strong>거래일자</strong><br />
+거래일자에 대한 조회 기간을 설정합니다.<br />날짜부터 날짜로 설정 가능합니다.</p>
+
+<p><strong>지급일</strong><br />
+지급일에 대한 조회 기간을 설정합니다.<br />날짜부터 날짜로 설정 가능합니다.</p>
+
+<p><strong>정산예정일</strong><br />
+정산예정일에 대한 조회 기간을 설정합니다.<br />날짜부터 날짜로 설정 가능합니다.</p>
+
+<p><strong>입금예정일</strong><br />
+입금예정일에 대한 조회 기간을 설정합니다.<br />날짜부터 날짜로 설정 가능합니다.
+<br />
+<br /></p>
+
+<p><img src="https://user-images.githubusercontent.com/95394003/147440848-18497c58-dec9-494f-a31e-e69c64973887.jpeg" alt="지사 승인금액 리스크" /><br />
+<strong>승인금액</strong><br />
+거래가 승인된 금액의 범위를 설정합니다.<br />금액부터 금액으로 설정 가능합니다.</p>
+
+<p><strong>리스크</strong><br />
+리스크 종류를 선택합니다.<br />
+(전체 / 건한도 / 중복 / 고액 / 최소금액 / 야간할부 / 1일중복 / 주간할부 / 야간건한도 / 위험 / 관리자설정)
+<br />
+<br /></p>
+
+<p><img src="https://user-images.githubusercontent.com/95394003/147441145-bad576a9-a7c3-4fff-b6d1-c8fb415994aa.jpeg" alt="지사 터미널번호부터 정산" /><br />
+<strong>터미널 번호</strong><br />
+터미널 번호를 입력합니다.</p>
+
+<p><strong>카드 BIN</strong><br />
+카드의 정보를 구분할 수 있는 BIN 번호를 입력합니다.<br />
+카드번호의 첫번째 자리부터 여섯번째 자리까지 입력합니다.</p>
+
+<p><strong>카드뒤4자리</strong><br />
+카드번호 끝 4자리를 입력합니다.</p>
+
+<p><strong>매입구분</strong><br />
+매입에 대한 구분을 (전체 / 매입 / 매입취소) 중에 선택합니다.</p>
+
+<p><strong>정산상태</strong><br />
+정산에 대한 상태를 선택합니다.<br />
+(전체 / 대기 / 확정 / 보류 / 완료) 중에 선택합니다.
+<br />
+<br /></p>
+
+<p><strong>정산주기</strong><br />
+<img src="https://user-images.githubusercontent.com/95394003/146488198-6ca8c161-13e2-48b5-825d-f89fe582569b.jpeg" alt="정산주기" /><br />
+정산주기를 선택합니다. (D+0~7, C+0~7, A+1, B+1)<br />
+<br />
+<br />
+<br /></p>
+
+<p><img src="https://user-images.githubusercontent.com/95394003/147441230-0b2b6c98-46ed-43de-8e11-be7868fcbde0.jpeg" alt="지사 일시불부터끝" /><br />
+<strong>일시불/할부</strong><br />
+거래가 일시불인지 할부인지를 선택합니다.</p>
+
+<p><strong>신용/체크</strong><br />
+결제한 카드가 신용카드인지 체크카드인지를 구분합니다.</p>
+
+<p><strong>매입사</strong><br />
+결제한 카드 매입사를 선택합니다.<br />
+(전체, 국민, 농협, 롯데, 비씨, 삼성, 하나, 현대, 기타)</p>
+
+<p><strong>가맹점 대표자</strong><br />
+가맹점 대표자를 입력합니다.</p>
+
+<p><strong>VAN</strong><br />
+VAN 종류를 선택합니다.</p>
+
+<p><strong>취소구분</strong><br />
+취소구분을 선택합니다. 전체와 부분으로 구분됩니다.</p>
+
+<p><strong>취소원거래번호</strong><br />
+취소원거래번호를 입력합니다.</p>
+
+<p><strong>거래번호</strong><br />
+거래번호를 입력합니다.</p>
+
+<p><strong>가맹점 ID</strong><br />
+가맹점 ID를 입력합니다.</p>
+
+<p><strong>입금상태</strong><br />
+입금상태를 선택합니다. (전체 / 입금대기 / 입금완료)로 구분됩니다.
+<br />
+<br /></p>
+
+<hr />
+
+<h4 id="검색-결과">검색 결과</h4>
+<p>체크박스, No, 거래일시, 승인번호, 매입번호, 거래번호, 가맹점,<br /> 가맹점대표, 주문번호, 터미널ID, 매입구분, 신용/체크, 취소거래,<br /> 금액, BIN, LAST4, 할부, 리스크<br />
+<br />
+<br /></p>
+
+<p><img src="https://user-images.githubusercontent.com/95394003/146479953-2adedabb-d3a8-4b89-9aa9-31b72fe795e4.jpeg" alt="조회결과" /><br />
+<strong>체크박스</strong><br />
+리스크를 변경하고자 하는 매입내역에 체크할 수 있습니다.</p>
+
+<p><strong>No</strong><br />
+조회된 결과의 리스트 번호를 나타냅니다.</p>
+
+<p><strong>거래일시</strong><br />
+거래가 이루어진 날짜와 시간을 나타냅니다.</p>
+
+<p><strong>승인번호</strong><br />
+거래의 승인번호를 나타냅니다.
+<br />
+<br /></p>
+
+<p><strong>매입번호</strong><br />
+<img src="https://user-images.githubusercontent.com/95394003/147442074-d093c8d0-b87d-4029-aa27-84a1eeda66ad.png" alt="image" /><br />
+매입번호를 나타냅니다.<br />클릭하면 매입내역에 대한 상세정보를 확인할 수 있습니다. <br />
+매입 정보를 조회하고 취소를 요청할 수도 있습니다.<br />
+<br />
+<br />
+<br /></p>
+
+<p><strong>거래번호</strong><br />
+거래번호를 나타냅니다.</p>
+
+<p><strong>가맹점</strong><br />
+거래가 이루어진 가맹점을 표기합니다.</p>
+
+<p><strong>가맹점대표</strong><br />
+해당 가맹점의 대표자 이름을 나타냅니다.</p>
+
+<p><strong>주문번호</strong><br />
+주문 번호를 나타냅니다.</p>
+
+<p><strong>터미널ID</strong><br />
+터미널 ID를 나타냅니다.</p>
+
+<p><strong>매입구분</strong><br />
+매입에 대한 구분을 나타내는데 매입과 취소로 구분됩니다.</p>
+
+<p><strong>신용/체크</strong><br />
+거래한 카드가 신용카드인지 체크카드인지를 나타냅니다.</p>
+
+<p><strong>취소거래</strong><br />
+취소 거래일 경우 취소거래번호를 나타냅니다.</p>
+
+<p><strong>금액</strong><br />
+거래 금액을 표기합니다.</p>
+
+<p><strong>BIN</strong><br />
+카드의 정보를 구분할 수 있는 BIN 번호를 나타냅니다.<br />
+카드번호의 첫번째 자리부터 여섯번째 자리까지 보여줍니다.</p>
+
+<p><strong>LAST4</strong><br />
+카드번호 끝 4자리입니다.<br />
+암호화가 되어있을 수도 있습니다.</p>
+
+<p><strong>할부</strong><br />
+할부 기간을 나타냅니다.<br />
+일시불 거래일 경우 00으로 표기됩니다.</p>
+
+<p><strong>리스크</strong><br />
+리스크를 구분해서 나타냅니다.</p>]]></content><author><name></name></author><category term="affliated TM" /><category term="가맹점" /><category term="매입 현황 조회" /><summary type="html"><![CDATA[검색 조건을 입력하여 매입 현황을 조회합니다]]></summary></entry></feed>

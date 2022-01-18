@@ -1,11 +1,11 @@
 ---
 title: "DashBoard"
 layout: archive
-permalink: categories/affliated dashboard
+permalink: categories/affliateddashboard
 author_profile: true
 sidebar_main: true
 ---
 
 
-{% assign posts = site.categories.['affliated dashboard'] %}
+{% assign posts = site.categories.affliateddashboard %}
 {% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}

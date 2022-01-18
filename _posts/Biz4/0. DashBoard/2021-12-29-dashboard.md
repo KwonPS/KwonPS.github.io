@@ -3,7 +3,7 @@ title: "Dashboard"
 excerpt: "Main page(Home)"
 
 categories: 
- - affliated dashboard
+ - affliateddashboard
 tags:
 - [가맹점, DashBoard]
 
@@ -13,7 +13,7 @@ toc_sticky: true
 date: 2021-12-29
 last_modified_at: 2021-12-29
 ---
-### 대행사 페이지 - *DashBoard*
+### *Home*
 ![가맹점 대시보드](https://user-images.githubusercontent.com/95394003/147627481-c828bb22-cc87-4fc7-810f-b44ddff2075a.jpeg)
 
 

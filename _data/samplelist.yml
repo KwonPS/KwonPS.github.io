@@ -258,7 +258,7 @@ toc3:
   - title: 가맹점
     item1depth:
       - page: DashBoard
-        url: affliated dashboard/dashboard
+        url: affliateddashboard/dashboard
       - page: 거래 관리
         url: /categories/affliatedtm
         item2depth:  

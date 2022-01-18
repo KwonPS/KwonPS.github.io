@@ -3,7 +3,7 @@ title: "가맹점 등록"
 excerpt: "등록된 가맹점에 로그인 아이디를 부여합니다"
 
 categories:
-  - member management
+  - membermanagement
 tags:
   - [대행사, 에이전시, 지사, 멤버 관리, 가맹점 등록]
 

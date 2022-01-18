@@ -62,7 +62,7 @@ toc3:
           - page: 자동 정산내역 조회
             url: /realtime settlement/autosettlement
       - page: 멤버 관리
-        url: /categories/member management
+        url: /categories/membermanagement
         item2depth:
           - page: 로그인 ID 관리
             url: /categories/login
@@ -72,7 +72,7 @@ toc3:
               - page: 대행사/에이전시 등록
                 url: /login/agencyenrollment
           - page: 가맹점 등록
-            url: /member management/memberenrollment
+            url: /membermanagement/memberenrollment
           - page: 에이전시 관리
             url: /categories/agencymanagement
             item3depth: 

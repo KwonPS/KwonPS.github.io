@@ -247,6 +247,7 @@ toc3:
             url: /branchmm/b-idlookup
           - page: 가맹점 등록
             url: /branchmm/branch-mr
+      - page: 고객 센터
         url: /categories/branchcsc
         item2depth:
           - page: 공지사항

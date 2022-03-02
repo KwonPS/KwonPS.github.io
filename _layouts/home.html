@@ -1,28 +1,47 @@
 ---
 layout: archive
 ---
+
+<head>
+  <script language="javascript">
+
+    <!--
+    
+    function login_page(form) {
+    
+    if (form.pass.value=="1234") {
+    
+    location="http://wownoori.com/wow/"
+    
+    } else {
+    
+    alert("패스워드가 틀립니다.")
+    
+    }
+    
+    }
+    
+    </script>
+</head>
+
 <br>
 <br>
 
-<script language="javascript">
+<body>
+  <p>해당 페이지는 비밀번호 입력으로 이용가능합니다.</p>
 
-  <!--
-  
-  function login_page(form) {
-  
-  if (form.pass.value=="1234") {
-  
-  location="https://kwonps.github.io/"
-  
-  } else {
-  
-  alert("패스워드가 틀립니다.")
-  
-  }
-  
-  }
-  
-  </script>
+<form name="loginForm">
+
+<p style="margin-bottom:20;"> 비밀번호입력
+
+<input name="pass" type="password" size="12">
+
+<input type="button" value="확 인" onClick="login_page(this.form)" style="font-weight:bolder; font-size:4mm;">
+
+<br>
+
+</form>
+</body>
 
 <H1 align="center">관리자시스템 매뉴얼</H1>
 <br>

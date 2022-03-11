@@ -14,7 +14,7 @@ date: 2021-12-13
 last_modified_at: 2022-01-04
 ---
 ### *Home*
-![image](https://user-images.githubusercontent.com/95394003/145782416-b20f8a59-b46f-4cbd-8b81-151b089f9c9d.jpeg)
+![대행사_dashboard](https://user-images.githubusercontent.com/95394003/157810818-9f3911e2-4603-47d8-9d10-a8701192d226.jpeg)
 <br>
 
 
